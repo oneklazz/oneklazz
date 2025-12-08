@@ -18,4 +18,4 @@
 :shipit: I am a student and I study programming in various fields. 
 
 ### :hourglass: Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oneklazz&theme=dark&background=000000)](https://git.io/streak-stats)
+![[GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oneklazz&theme=dark&background=000000)](https://git.io/streak-stats)
