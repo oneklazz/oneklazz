@@ -15,8 +15,16 @@
 
 ---
 
-:shipit: I am a student and I study programming in various fields. 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AE53F7&width=435&lines=Computer+science+student)](https://git.io/typing-svg)
 
-### :hourglass: Stats:
+:shipit: I'm a student and I study programming in various fields. 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,py,html,css,js" />
+  </a>
+</p>
+
+### :hourglass: Github Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oneklazz&theme=synthwave)](https://git.io/streak-stats)
