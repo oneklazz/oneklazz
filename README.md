@@ -7,9 +7,11 @@
 <h1 align="center">
   Welcome!
 </h1>
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajYwaG1nZzJ1eGgwdGl5NmowZmYyaHZ3eDl2MnQwb2l6ZWQ4c2x1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/axnFGXT6MzvgY/giphy.gif" width="500" height="300"/>
-</div>
+<p align="center">
+  <img src="https://media1.tenor.com/m/uPupe5DaXakAAAAC/watch-dogs.gif" width="300" height="300"/>
+  <img src="https://media1.tenor.com/m/uPupe5DaXakAAAAC/watch-dogs.gif" width="300" height="300"/>
+  <img src="https://media1.tenor.com/m/uPupe5DaXakAAAAC/watch-dogs.gif" width="300" height="300"/>
+</p>
 
 ### :man_technologist: About Me :
 
