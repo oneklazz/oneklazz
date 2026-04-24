@@ -8,9 +8,9 @@
   Welcome!
 </h1>
 <p align="center">
-  <img src="https://media1.tenor.com/m/uPupe5DaXakAAAAC/watch-dogs.gif" width="300" height="300"/>
-  <img src="https://media1.tenor.com/m/uPupe5DaXakAAAAC/watch-dogs.gif" width="300" height="300"/>
-  <img src="https://media1.tenor.com/m/uPupe5DaXakAAAAC/watch-dogs.gif" width="300" height="300"/>
+  <img src="https://media1.tenor.com/m/uPupe5DaXakAAAAC/watch-dogs.gif" width="200" height="200"/>
+  <img src="https://media1.tenor.com/m/uPupe5DaXakAAAAC/watch-dogs.gif" width="200" height="200"/>
+  <img src="https://media1.tenor.com/m/uPupe5DaXakAAAAC/watch-dogs.gif" width="200" height="200"/>
 </p>
 
 ### :man_technologist: About Me :
